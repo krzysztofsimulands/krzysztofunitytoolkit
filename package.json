@@ -1,0 +1,11 @@
+{
+  "name": "com.krzysztofszczurek.editortools",
+  "version": "1.0.0",
+  "displayName": "Krzysztof's Editor Tools",
+  "description": "",
+  "hideInEditor": false,
+  "author": "Krzysztof Szczurek",
+  "dependencies": {
+  },
+  "type": "library"
+}
